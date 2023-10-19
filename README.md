@@ -1,11 +1,12 @@
 ## Amazon Reviews Sentiment Analysis 
+![image](https://github.com/Terry-Migwi/Amazon_Reviews_Sentiment_Analysis/assets/65303250/cfc6f422-81b8-40d5-a2fd-c98cf9283bc7)
 
 
 ### Project Overview
 This research performs analysis on CDs and Vinyl reviews on Amazon with the objective of identifying the reviewer’s sentiments on the products. This project leverages Natural Language Processing for sentiment analysis by implementing a pre-trained model, machine learning, and deep learning algorithms for classification. 
 
 ### Installation and Setup
-clone the repository: 
+Clone the repository: git clone https://github.com/Terry-Migwi/Amazon_Reviews_Sentiment_Analysis.git
 
 ### Resources Used
 * Editor: Google Colaboratory
